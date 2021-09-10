@@ -4,12 +4,9 @@
 			"path": "."
 		},
 		{
-			"path": ".."
+			"name": "FCCLandingPage",
+			"path": "FCCLandingPage"
 		}
 	],
-	"settings": {
-		"livePreview.defaultPreviewPath": "c:\\Users\\ssamk\\Desktop\\codes\\test\\index.html",
-		"liveServer.settings.multiRootWorkspaceName": "test",
-		"git.ignoreLimitWarning": true
-	}
+	"settings": {}
 }
